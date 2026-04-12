@@ -1,9 +1,9 @@
 window.DASHBOARD_DATA = {
   "summary": {
     "days": 3,
-    "posts": 11,
-    "views": 3731,
-    "likes": 62,
+    "posts": 14,
+    "views": 3852,
+    "likes": 64,
     "replies": 50,
     "followers": "—",
     "follower_change": "+—",
@@ -16,7 +16,7 @@ window.DASHBOARD_DATA = {
     },
     {
       "date": "4/12",
-      "views": 3731
+      "views": 3852
     }
   ],
   "heatmap": {
@@ -92,73 +92,73 @@ window.DASHBOARD_DATA = {
       "text": "＼＼社会実験を始めます／／\n\nClaude CodeのみでThreadsを伸ばすという謎の実験を始め",
       "type": "—",
       "time": "09:44",
-      "views": 3030,
+      "views": 3067,
       "replies": 47,
-      "score": 5990
+      "score": 6027
     },
     {
       "text": "Claude Code を一言で言うと、\n「AIに仕事を丸ごと任せられるツール」。\n\n文章を書くだけ",
       "type": "—",
       "time": "15:47",
-      "views": 129,
+      "views": 133,
       "replies": 2,
-      "score": 259
+      "score": 263
     },
     {
       "text": "CLAUDE.mdを書くだけで、Claude Codeの出力精度が劇的に変わる。\n\n書くのは3行でい",
       "type": "—",
       "time": "03:00",
-      "views": 157,
+      "views": 168,
       "replies": 0,
-      "score": 167
+      "score": 178
     },
     {
       "text": "CLAUDE.mdを書くだけで、Claude Codeの出力精度が劇的に変わる。\n\n書くのは3行でい",
       "type": "—",
       "time": "23:48",
-      "views": 106,
+      "views": 109,
       "replies": 0,
-      "score": 136
+      "score": 139
     },
     {
       "text": "昨日の初投稿の結果を公開する。\n\n閲覧: 714\nいいね: 14\nコメント: 22\n引用: 2\n\nコ",
       "type": "—",
       "time": "15:46",
-      "views": 52,
+      "views": 53,
       "replies": 1,
-      "score": 112
+      "score": 113
     },
     {
       "text": "おはようございます。\n\n昨日の社会実験宣言、初投稿の結果を公開します。\n\n閲覧: 714\nいいね: ",
       "type": "—",
       "time": "23:48",
-      "views": 72,
+      "views": 74,
       "replies": 0,
-      "score": 102
+      "score": 104
     },
     {
       "text": "成長過程は下記リンク↓\nclaudecode1228lab.github.io/threads-da",
       "type": "—",
       "time": "01:56",
-      "views": 54,
+      "views": 56,
       "replies": 0,
-      "score": 84
+      "score": 86
     },
     {
       "text": "多分全員にお渡ししてるかと思いますが、\nフォローしていただかないとDMでメッセージ送れないそうです😭",
       "type": "—",
       "time": "23:59",
-      "views": 53,
+      "views": 55,
       "replies": 0,
-      "score": 63
+      "score": 65
     },
     {
       "text": "皆様のおかげ\n（実際のClaude codeの画面）by りゅう",
       "type": "—",
       "time": "15:39",
-      "views": 31,
+      "views": 34,
       "replies": 0,
-      "score": 61
+      "score": 64
     },
     {
       "text": "今送ってんのは、紛れもなく『りゅう』です。\n忙しくて全然AI自動化までいけてないww\n\n急ぎます。。",
@@ -211,5 +211,5 @@ window.DASHBOARD_DATA = {
       "result": "—"
     }
   ],
-  "updated_at": "2026-04-12T10:00:28.985372"
+  "updated_at": "2026-04-12T23:10:52.193963"
 };
