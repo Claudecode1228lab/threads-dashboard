@@ -1,10 +1,10 @@
 window.DASHBOARD_DATA = {
   "summary": {
-    "days": 3,
-    "posts": 14,
-    "views": 3852,
-    "likes": 64,
-    "replies": 50,
+    "days": 4,
+    "posts": 17,
+    "views": 4012,
+    "likes": 71,
+    "replies": 53,
     "followers": "—",
     "follower_change": "+—",
     "reply_rate": "1.3%"
@@ -17,6 +17,10 @@ window.DASHBOARD_DATA = {
     {
       "date": "4/12",
       "views": 3852
+    },
+    {
+      "date": "4/13",
+      "views": 4012
     }
   ],
   "heatmap": {
@@ -92,81 +96,81 @@ window.DASHBOARD_DATA = {
       "text": "＼＼社会実験を始めます／／\n\nClaude CodeのみでThreadsを伸ばすという謎の実験を始め",
       "type": "—",
       "time": "09:44",
-      "views": 3067,
-      "replies": 47,
-      "score": 6027
+      "views": 3115,
+      "replies": 49,
+      "score": 6175
     },
     {
       "text": "Claude Code を一言で言うと、\n「AIに仕事を丸ごと任せられるツール」。\n\n文章を書くだけ",
       "type": "—",
       "time": "15:47",
-      "views": 133,
+      "views": 134,
       "replies": 2,
-      "score": 263
+      "score": 264
     },
     {
       "text": "CLAUDE.mdを書くだけで、Claude Codeの出力精度が劇的に変わる。\n\n書くのは3行でい",
       "type": "—",
       "time": "03:00",
-      "views": 168,
+      "views": 173,
       "replies": 0,
+      "score": 183
+    },
+    {
+      "text": "Claude Codeで投稿・返信・分析を全自動化した。\n\nPC放置してるだけで勝手に回ってる。\n\n",
+      "type": "—",
+      "time": "11:00",
+      "views": 78,
+      "replies": 1,
       "score": 178
     },
     {
       "text": "CLAUDE.mdを書くだけで、Claude Codeの出力精度が劇的に変わる。\n\n書くのは3行でい",
       "type": "—",
       "time": "23:48",
-      "views": 109,
+      "views": 112,
       "replies": 0,
-      "score": 139
+      "score": 142
     },
     {
       "text": "昨日の初投稿の結果を公開する。\n\n閲覧: 714\nいいね: 14\nコメント: 22\n引用: 2\n\nコ",
       "type": "—",
       "time": "15:46",
-      "views": 53,
+      "views": 54,
       "replies": 1,
-      "score": 113
+      "score": 114
     },
     {
       "text": "おはようございます。\n\n昨日の社会実験宣言、初投稿の結果を公開します。\n\n閲覧: 714\nいいね: ",
       "type": "—",
       "time": "23:48",
-      "views": 74,
+      "views": 75,
       "replies": 0,
-      "score": 104
+      "score": 105
     },
     {
       "text": "成長過程は下記リンク↓\nclaudecode1228lab.github.io/threads-da",
       "type": "—",
       "time": "01:56",
-      "views": 56,
+      "views": 60,
       "replies": 0,
-      "score": 86
+      "score": 90
     },
     {
       "text": "多分全員にお渡ししてるかと思いますが、\nフォローしていただかないとDMでメッセージ送れないそうです😭",
       "type": "—",
       "time": "23:59",
-      "views": 55,
+      "views": 58,
       "replies": 0,
-      "score": 65
+      "score": 68
     },
     {
       "text": "皆様のおかげ\n（実際のClaude codeの画面）by りゅう",
       "type": "—",
       "time": "15:39",
-      "views": 34,
+      "views": 35,
       "replies": 0,
-      "score": 64
-    },
-    {
-      "text": "今送ってんのは、紛れもなく『りゅう』です。\n忙しくて全然AI自動化までいけてないww\n\n急ぎます。。",
-      "type": "—",
-      "time": "15:30",
-      "views": 32,
-      "replies": 0,
-      "score": 32
+      "score": 65
     }
   ],
   "hypotheses": [
@@ -211,5 +215,5 @@ window.DASHBOARD_DATA = {
       "result": "—"
     }
   ],
-  "updated_at": "2026-04-12T23:10:52.193963"
+  "updated_at": "2026-04-13T23:10:55.209296"
 };
