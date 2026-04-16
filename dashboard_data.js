@@ -1,9 +1,9 @@
 window.DASHBOARD_DATA = {
   "summary": {
-    "days": 6,
-    "posts": 47,
-    "views": 4349,
-    "likes": 93,
+    "days": 7,
+    "posts": 60,
+    "views": 4415,
+    "likes": 94,
     "replies": 53,
     "followers": "—",
     "follower_change": "+—",
@@ -29,6 +29,10 @@ window.DASHBOARD_DATA = {
     {
       "date": "4/15",
       "views": 4349
+    },
+    {
+      "date": "4/16",
+      "views": 4415
     }
   ],
   "heatmap": {
@@ -104,9 +108,9 @@ window.DASHBOARD_DATA = {
       "text": "＼＼社会実験を始めます／／\n\nClaude CodeのみでThreadsを伸ばすという謎の実験を始め",
       "type": "—",
       "time": "09:44",
-      "views": 3175,
+      "views": 3187,
       "replies": 49,
-      "score": 6225
+      "score": 6237
     },
     {
       "text": "Claude Code を一言で言うと、\n「AIに仕事を丸ごと任せられるツール」。\n\n文章を書くだけ",
@@ -223,5 +227,5 @@ window.DASHBOARD_DATA = {
       "result": "—"
     }
   ],
-  "updated_at": "2026-04-15T23:11:14.194098"
+  "updated_at": "2026-04-16T23:11:08.917019"
 };
