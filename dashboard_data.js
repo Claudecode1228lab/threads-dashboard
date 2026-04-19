@@ -1,13 +1,13 @@
 window.DASHBOARD_DATA = {
   "summary": {
-    "days": 9,
-    "posts": 89,
-    "views": 4657,
-    "likes": 100,
-    "replies": 53,
+    "days": 10,
+    "posts": 100,
+    "views": 1320,
+    "likes": 54,
+    "replies": 3,
     "followers": "—",
     "follower_change": "+—",
-    "reply_rate": "1.1%"
+    "reply_rate": "0.2%"
   },
   "daily_views": [
     {
@@ -37,6 +37,10 @@ window.DASHBOARD_DATA = {
     {
       "date": "4/18",
       "views": 4657
+    },
+    {
+      "date": "4/19",
+      "views": 1320
     }
   ],
   "heatmap": {
@@ -109,14 +113,6 @@ window.DASHBOARD_DATA = {
   },
   "ranking": [
     {
-      "text": "＼＼社会実験を始めます／／\n\nClaude CodeのみでThreadsを伸ばすという謎の実験を始め",
-      "type": "—",
-      "time": "09:44",
-      "views": 3228,
-      "replies": 49,
-      "score": 6278
-    },
-    {
       "text": "Claude Code を一言で言うと、\n「AIに仕事を丸ごと任せられるツール」。\n\n文章を書くだけ",
       "type": "—",
       "time": "15:47",
@@ -149,14 +145,6 @@ window.DASHBOARD_DATA = {
       "score": 146
     },
     {
-      "text": "昨日の初投稿の結果を公開する。\n\n閲覧: 714\nいいね: 14\nコメント: 22\n引用: 2\n\nコ",
-      "type": "—",
-      "time": "15:46",
-      "views": 58,
-      "replies": 1,
-      "score": 118
-    },
-    {
       "text": "おはようございます。\n\n昨日の社会実験宣言、初投稿の結果を公開します。\n\n閲覧: 714\nいいね: ",
       "type": "—",
       "time": "23:48",
@@ -181,12 +169,28 @@ window.DASHBOARD_DATA = {
       "score": 81
     },
     {
-      "text": "皆様のおかげ\n（実際のClaude codeの画面）by りゅう",
+      "text": "募集してます！\n後1人！\n\nbyりゅう",
       "type": "—",
-      "time": "15:39",
-      "views": 40,
+      "time": "01:55",
+      "views": 27,
       "replies": 0,
-      "score": 70
+      "score": 47
+    },
+    {
+      "text": "AIに任せちゃダメだと思う仕事ってある？\n\n自分の線引き:\n・DM対応 → 人間\n・クレーム → 絶",
+      "type": "—",
+      "time": "03:00",
+      "views": 26,
+      "replies": 0,
+      "score": 46
+    },
+    {
+      "text": "初心者がClaude Codeを使うとき、最初にやるべきことは1つだけ。\n\n「自分の言葉のサンプルを",
+      "type": "—",
+      "time": "12:25",
+      "views": 26,
+      "replies": 0,
+      "score": 46
     }
   ],
   "hypotheses": [
@@ -231,5 +235,5 @@ window.DASHBOARD_DATA = {
       "result": "—"
     }
   ],
-  "updated_at": "2026-04-18T23:12:44.359370"
+  "updated_at": "2026-04-19T23:11:40.468034"
 };
