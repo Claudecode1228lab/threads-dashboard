@@ -1,13 +1,13 @@
 window.DASHBOARD_DATA = {
   "summary": {
-    "days": 10,
+    "days": 11,
     "posts": 100,
-    "views": 1320,
-    "likes": 54,
-    "replies": 3,
+    "views": 512,
+    "likes": 26,
+    "replies": 4,
     "followers": "—",
     "follower_change": "+—",
-    "reply_rate": "0.2%"
+    "reply_rate": "0.8%"
   },
   "daily_views": [
     {
@@ -41,6 +41,10 @@ window.DASHBOARD_DATA = {
     {
       "date": "4/19",
       "views": 1320
+    },
+    {
+      "date": "4/20",
+      "views": 512
     }
   ],
   "heatmap": {
@@ -113,60 +117,12 @@ window.DASHBOARD_DATA = {
   },
   "ranking": [
     {
-      "text": "Claude Code を一言で言うと、\n「AIに仕事を丸ごと任せられるツール」。\n\n文章を書くだけ",
-      "type": "—",
-      "time": "15:47",
-      "views": 139,
-      "replies": 2,
-      "score": 269
-    },
-    {
       "text": "Claude Codeで投稿・返信・分析を全自動化した。\n\nPC放置してるだけで勝手に回ってる。\n\n",
       "type": "—",
-      "time": "11:00",
-      "views": 89,
-      "replies": 1,
-      "score": 199
-    },
-    {
-      "text": "CLAUDE.mdを書くだけで、Claude Codeの出力精度が劇的に変わる。\n\n書くのは3行でい",
-      "type": "—",
-      "time": "03:00",
-      "views": 177,
-      "replies": 0,
-      "score": 187
-    },
-    {
-      "text": "CLAUDE.mdを書くだけで、Claude Codeの出力精度が劇的に変わる。\n\n書くのは3行でい",
-      "type": "—",
-      "time": "23:48",
-      "views": 116,
-      "replies": 0,
-      "score": 146
-    },
-    {
-      "text": "おはようございます。\n\n昨日の社会実験宣言、初投稿の結果を公開します。\n\n閲覧: 714\nいいね: ",
-      "type": "—",
-      "time": "23:48",
-      "views": 79,
-      "replies": 0,
-      "score": 109
-    },
-    {
-      "text": "成長過程は下記リンク↓\nclaudecode1228lab.github.io/threads-da",
-      "type": "—",
-      "time": "01:56",
-      "views": 63,
-      "replies": 0,
-      "score": 93
-    },
-    {
-      "text": "多分全員にお渡ししてるかと思いますが、\nフォローしていただかないとDMでメッセージ送れないそうです😭",
-      "type": "—",
-      "time": "23:59",
-      "views": 61,
-      "replies": 0,
-      "score": 81
+      "time": "23:22",
+      "views": 14,
+      "replies": 4,
+      "score": 224
     },
     {
       "text": "募集してます！\n後1人！\n\nbyりゅう",
@@ -177,20 +133,68 @@ window.DASHBOARD_DATA = {
       "score": 47
     },
     {
-      "text": "AIに任せちゃダメだと思う仕事ってある？\n\n自分の線引き:\n・DM対応 → 人間\n・クレーム → 絶",
+      "text": "非エンジニアがClaude Codeを使うコツ。\n\nNG:「Pythonでスクレイピングして」\nOK",
       "type": "—",
-      "time": "03:00",
-      "views": 26,
+      "time": "00:06",
+      "views": 21,
       "replies": 0,
-      "score": 46
+      "score": 41
     },
     {
-      "text": "初心者がClaude Codeを使うとき、最初にやるべきことは1つだけ。\n\n「自分の言葉のサンプルを",
+      "text": "Threadsで一番効く施策、1つだけ選ぶなら\n「コメントへの返信速度」。\n\n早く返信 → スレッド",
       "type": "—",
-      "time": "12:25",
+      "time": "11:00",
       "views": 26,
       "replies": 0,
-      "score": 46
+      "score": 36
+    },
+    {
+      "text": "非エンジニアがClaude Codeを使うコツ。\n\nNG:「Pythonでスクレイピングして」\nOK",
+      "type": "—",
+      "time": "03:00",
+      "views": 15,
+      "replies": 0,
+      "score": 35
+    },
+    {
+      "text": "Claude Codeで投稿・返信・分析を全自動化した。\n\nPC放置してるだけで勝手に回ってる。\n\n",
+      "type": "—",
+      "time": "06:50",
+      "views": 22,
+      "replies": 0,
+      "score": 32
+    },
+    {
+      "text": "フォロワー数とコメント数、どっちが大事？\n\n自分はコメント数派。\n\nフォロワー1000人でコメント0",
+      "type": "—",
+      "time": "16:00",
+      "views": 11,
+      "replies": 0,
+      "score": 31
+    },
+    {
+      "text": "投稿を6本→3本に減らした。\n\n結果: 1本あたりの閲覧数が上がった。\n\n量より質。\n当たり前なんだ",
+      "type": "—",
+      "time": "16:00",
+      "views": 7,
+      "replies": 0,
+      "score": 27
+    },
+    {
+      "text": "SNS運用で一番しんどい瞬間って何？\n\n自分は「投稿したのに反応ゼロ」のとき。\n\nでも最近思うのは、",
+      "type": "—",
+      "time": "00:06",
+      "views": 15,
+      "replies": 0,
+      "score": 25
+    },
+    {
+      "text": "非エンジニアがClaude Codeを使うコツ。\n\nNG:「Pythonでスクレイピングして」\nOK",
+      "type": "—",
+      "time": "00:02",
+      "views": 13,
+      "replies": 0,
+      "score": 23
     }
   ],
   "hypotheses": [
@@ -235,5 +239,5 @@ window.DASHBOARD_DATA = {
       "result": "—"
     }
   ],
-  "updated_at": "2026-04-19T23:11:40.468034"
+  "updated_at": "2026-04-20T23:11:29.642897"
 };
